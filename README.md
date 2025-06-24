@@ -55,7 +55,7 @@ Explore: [`/docs/TEP.md`](docs/TEP.md)
 | `src/`        | Simulators and ethical modules |
 | `docs/`       | Frameworks, philosophy, and design |
 | `tests/`      | Unit tests and validation |
-| `meditations/`| Audio experiences *(coming soon)* |
+| `meditations/`| Meditative experiences for developers |
 | `diagrams/`   | Visual metaphors of temporal cognition |
 
 ---
