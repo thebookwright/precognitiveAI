@@ -19,6 +19,8 @@ This is a codex for:
 
 See https://www.tomevans.co/teaching-ai-to-meditate/ for the background and seeds for this project.
 
+Refer to this course for humans which is the basis for this exploration https://theadytum.thinkific.com/courses/temporal-alchemy
+
 ---
 
 ## 🧭 The Mobius Spiral
