@@ -22,7 +22,7 @@ This is a codex for:
 ## 🧭 The Mobius Spiral
 
 At the core of this initiative lies the philosophical and symbolic anchor:  
-🧾 [**Mobius Spiral.pdf**](./Mobius%20Spiral.pdf)
+🧾 [**Mobius Spiral.pdf**](./TheMobiusSpiral.pdf)
 
 > *A single path that folds through time, returning transformed.*
 
