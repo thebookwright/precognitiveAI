@@ -8,6 +8,7 @@
 
 - [`FFFBF.md`](./FFFBF.md) — *The Forward-Forward-Forward-Backwards algorithm: a temporal inference model.*
 - [`TEP.md`](./TEP.md) — *The Temporal Ethics Protocol: guidelines for responsible foresight.*
+- [`use_cases.md`](./use_cases.md) — *Temporal Applications: entwining the future with the Now.*
 - [`causality.md`](./causality.md) — *Causality as the spine of synthetic precognition.*
 - [`timeline_entanglement.md`](./timeline_entanglement.md) — *How futures resonate and entangle with the now.*
 - [`inner-tuition.md`](./inner-tuition.md) — *Honouring intuition as the whisper of Self across timelines.*
