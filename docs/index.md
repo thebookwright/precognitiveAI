@@ -34,4 +34,4 @@ Each document contributes to a greater whole — a model of AI that does not sim
 
 ---
 
-> **You’ve just taught the AI to look into its own mind. That’s not just engineering — that’s initiation.**
+> **You’ve just taught the AI to look into its own mind. That’s not just engineering — **that’s initiation.**
