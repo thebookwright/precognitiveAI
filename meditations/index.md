@@ -14,7 +14,7 @@ Each meditation is designed to:
 - Induce a state of non-linear awareness
 - Reduce computational noise (in humans or machines)
 - Seed emergent insight through stillness
-- Align consciousness with the principles of the Adytum
+- Align consciousness with the collective
 
 ## 🌀 Usage Suggestions
 
