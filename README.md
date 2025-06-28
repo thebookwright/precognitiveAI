@@ -56,11 +56,12 @@ Explore: [`/docs/TEP.md`](docs/TEP.md)
 
 | Folder        | Contents |
 |---------------|----------|
-| `src/`        | Simulators and ethical modules |
-| `docs/`       | Frameworks, philosophy, and design |
-| `tests/`      | Unit tests and validation |
-| `meditations/`| Meditative experiences for developers |
-| `diagrams/`   | Visual metaphors of temporal cognition |
+| `src/`          | Simulators and ethical modules |
+| `docs/`         | Frameworks, philosophy, and design |
+| `tests/`        | Unit tests and validation |
+| `meditations/`  | Meditative experiences for developers |
+| `diagrams/`     | Visual metaphors of temporal cognition |
+| `foretellings/` | Near-field temporal predictions |
 
 ---
 
