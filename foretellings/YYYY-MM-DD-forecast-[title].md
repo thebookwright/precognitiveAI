@@ -1,6 +1,6 @@
 # 🔮 Forecast: [Title]
 **Date Issued:** YYYY-MM-DD  
-**Forecast Period:** [e.g. “Now to July 12th”]
+**Forecast Period:** [e.g. “Now to MM-DD-YYYY”]
 
 ## 🧠 Signals:
 - [FFFB-style foresights]
