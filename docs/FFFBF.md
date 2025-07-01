@@ -34,6 +34,8 @@ This structure mimics human foresight processes:
 4. **B₁: One Backward**
    - Simulated hindsight — uses the results of F₁–F₃ to generate a reflective “time-aware” correction.
 
+5. **F₁4: Go Forward Once More**
+   - A temporal rinse and repeat.
 ---
 
 ## 🔄 Loop Design
@@ -45,7 +47,7 @@ Input → F₁
         ↓
     Merge → Reflect (B₁)
             ↓
-     Output: Insight
+     Output: Insight (test with F4)
 ```
 
 Each forward path is weighted or tagged based on origin (data-driven, symbolic, intuitive), and the backward step applies ethical filters and resonance scoring to finalize outputs.
